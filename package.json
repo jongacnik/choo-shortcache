@@ -1,0 +1,17 @@
+{
+  "name": "choo-shortcache",
+  "version": "0.0.0",
+  "description": "choo nanocomponent cache shortcut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "choo",
+    "component",
+    "nanocomponent",
+    "cache"
+  ],
+  "author": "Jon Gacnik <jon@folderstudio.com>",
+  "license": "MIT"
+}
