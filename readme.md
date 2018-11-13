@@ -16,7 +16,9 @@ var MyComponent = require('./mycomponent')
 
 module.exports = function (state, emit) {
   return html`
-    ${cache(MyComponent, 'MyComponent').render()}
+    <body>
+      ${cache(MyComponent, 'MyComponent').render()}
+    </body>
   `
 }
 ```
